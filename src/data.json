@@ -1,0 +1,342 @@
+[
+  {
+    "arrivalTime": "6:00",
+    "date": "2022/11/01",
+    "departureTime": "5:00",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-101",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 3525
+  },
+  {
+    "arrivalTime": "9:50",
+    "date": "2022/11/01",
+    "departureTime": "7:20",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-102",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 5635
+  },
+  {
+    "arrivalTime": "7:10",
+    "date": "2022/11/01",
+    "departureTime": "6:10",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-103",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 2537
+  },
+  {
+    "arrivalTime": "10:20",
+    "date": "2022/11/01",
+    "departureTime": "8:10",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-104",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 4681
+  },
+  {
+    "arrivalTime": "9:15",
+    "date": "2022/11/01",
+    "departureTime": "8:15",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "SJ-105",
+    "name": "SpiceJet",
+    "origin": "Chattogram (CGP)",
+    "price": 3549
+  },
+  {
+    "arrivalTime": "13:00",
+    "date": "2022/11/01",
+    "departureTime": "11:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "SJ-106",
+    "name": "SpiceJet",
+    "origin": "Sylhet (ZYL)",
+    "price": 5645
+  },
+  {
+    "arrivalTime": "10:00",
+    "date": "2022/11/01",
+    "departureTime": "8:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "SJ-107",
+    "name": "SpiceJet",
+    "origin": "Sylhet (ZYL)",
+    "price": 5000
+  },
+  {
+    "arrivalTime": "10:30",
+    "date": "2022/11/01",
+    "departureTime": "8:00",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "TW-108",
+    "name": "Air Taiwan",
+    "origin": "Dhaka (DAC)",
+    "price": 4004
+  },
+  {
+    "arrivalTime": "15:30",
+    "date": "2022/11/01",
+    "departureTime": "12:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "TW-109",
+    "name": "Air Taiwan",
+    "origin": "Sylhet (ZYL)",
+    "price": 3495
+  },
+  {
+    "arrivalTime": "11:30",
+    "date": "2022/11/01",
+    "departureTime": "9:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-110",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 4137
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2022/11/01",
+    "departureTime": "14:00",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "AI-111",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 5217
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2022/11/01",
+    "departureTime": "14:30",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-112",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 4170
+  },
+  {
+    "arrivalTime": "22:30",
+    "date": "2022/11/01",
+    "departureTime": "20:00",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-113",
+    "name": "Biman Bangladesh",
+    "origin": "Sylhet (ZYL)",
+    "price": 5132
+  },
+  {
+    "arrivalTime": "22:45",
+    "date": "2022/11/01",
+    "departureTime": "21:30",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-114",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 2001
+  },
+  {
+    "arrivalTime": "22:10",
+    "date": "2022/11/01",
+    "departureTime": "20:00",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-115",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 5233
+  },
+  {
+    "arrivalTime": "19:30",
+    "date": "2022/11/01",
+    "departureTime": "17:20",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "AI-116",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 6348
+  },
+  {
+    "arrivalTime": "14:15",
+    "date": "2022/11/01",
+    "departureTime": "13:15",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-117",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 5117
+  },
+  {
+    "arrivalTime": "6:00",
+    "date": "2022/11/02",
+    "departureTime": "5:00",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-119",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 3525
+  },
+  {
+    "arrivalTime": "9:50",
+    "date": "2022/11/02",
+    "departureTime": "7:20",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-120",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 5635
+  },
+  {
+    "arrivalTime": "6:58",
+    "date": "2022/11/02",
+    "departureTime": "6:10",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-121",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 2537
+  },
+  {
+    "arrivalTime": "10:20",
+    "date": "2022/11/02",
+    "departureTime": "8:10",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-131",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 4681
+  },
+  {
+    "arrivalTime": "9:15",
+    "date": "2022/11/02",
+    "departureTime": "8:15",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "SJ-115",
+    "name": "SpiceJet",
+    "origin": "CoxsBazar (CXB)",
+    "price": 3549
+  },
+  {
+    "arrivalTime": "13:00",
+    "date": "2022/11/02",
+    "departureTime": "11:00",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "SJ-116",
+    "name": "SpiceJet",
+    "origin": "Sylhet (ZYL)",
+    "price": 5645
+  },
+  {
+    "arrivalTime": "10:00",
+    "date": "2022/11/02",
+    "departureTime": "8:00",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "SJ-117",
+    "name": "SpiceJet",
+    "origin": "CoxsBazar (CXB)",
+    "price": 5000
+  },
+  {
+    "arrivalTime": "10:30",
+    "date": "2022/11/02",
+    "departureTime": "8:00",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "TW-118",
+    "name": "Air Taiwan",
+    "origin": "CoxsBazar (CXB)",
+    "price": 4004
+  },
+  {
+    "arrivalTime": "15:30",
+    "date": "2022/11/02",
+    "departureTime": "12:00",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "TW-119",
+    "name": "Air Taiwan",
+    "origin": "Sylhet (ZYL)",
+    "price": 3495
+  },
+  {
+    "arrivalTime": "11:30",
+    "date": "2022/11/02",
+    "departureTime": "9:00",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-130",
+    "name": "Biman Bangladesh",
+    "origin": "CoxsBazar (CXB)",
+    "price": 4137
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2022/11/02",
+    "departureTime": "14:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-131",
+    "name": "Biman Bangladesh",
+    "origin": "Sylhet (ZYL)",
+    "price": 5217
+  },
+  {
+    "arrivalTime": "16:30",
+    "date": "2022/11/02",
+    "departureTime": "14:30",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-132",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 4170
+  },
+  {
+    "arrivalTime": "22:30",
+    "date": "2022/11/02",
+    "departureTime": "20:00",
+    "destination": "Sylhet (ZYL)",
+    "flightNo": "AI-133",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 5132
+  },
+  {
+    "arrivalTime": "22:45",
+    "date": "2022/11/02",
+    "departureTime": "21:30",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-134",
+    "name": "Biman Bangladesh",
+    "origin": "Dhaka (DAC)",
+    "price": 2001
+  },
+  {
+    "arrivalTime": "22:10",
+    "date": "2022/11/02",
+    "departureTime": "20:00",
+    "destination": "CoxsBazar (CXB)",
+    "flightNo": "AI-135",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 5233
+  },
+  {
+    "arrivalTime": "19:30",
+    "date": "2022/11/02",
+    "departureTime": "17:20",
+    "destination": "Chattogram (CGP)",
+    "flightNo": "AI-136",
+    "name": "Biman Bangladesh",
+    "origin": "Sylhet (ZYL)",
+    "price": 6348
+  },
+  {
+    "arrivalTime": "14:15",
+    "date": "2022/11/02",
+    "departureTime": "13:15",
+    "destination": "Dhaka (DAC)",
+    "flightNo": "AI-137",
+    "name": "Biman Bangladesh",
+    "origin": "Chattogram (CGP)",
+    "price": 5117
+  }
+]
